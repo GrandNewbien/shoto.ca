@@ -1,15 +1,15 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Shoto Creative"
 theme = "phugo"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-121049388-3"
 
 [params]
 
     # Meta
     description = "Shoto Creative - Greater Toronto Area Creative Studio"
-    author = "aerohub"
+    author = "Shoto.ca"
     keywords = "photography, videography, video, photo, photogallery"
     
     # Headerbar links
