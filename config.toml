@@ -1,5 +1,5 @@
 # Settings
-baseurl = "/"
+baseurl = "https://shoto.ca"
 languageCode = "en-us"
 title = "Shoto Creative"
 theme = "phugo"
