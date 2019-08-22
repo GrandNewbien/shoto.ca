@@ -6,6 +6,6 @@ draft: false
 ---
 
 
-{{< photo full="https://shoto.ca/images/albums/gagratlycan/IMG_4510.jpg" thumb="https://shoto.ca/images/albums/gagratlycan/IMG_4510_1.jpg" alt="" phototitle="Family Photo" description="">}}
+{{< photo full="gagratlycan/IMG_4510.jpg" thumb="gagratlycan/IMG_4510_1.jpg" alt="" phototitle="Family Photo" description="">}}
 
-{{< photo full="https://shoto.ca/images/albums/gagratlycan/IMG_4768.jpg" thumb="https://shoto.ca/images/albums/gagratlycan/IMG_4768_1.jpg" alt="" phototitle="Gagan and Harsirat" description="">}}
+<!-- {{< photo full="gagratlycan/IMG_4768.jpg" thumb="gagratlycan/IMG_4768_1.jpg" alt="" phototitle="Gagan and Harsirat" description="">}} -->
