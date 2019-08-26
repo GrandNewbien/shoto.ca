@@ -9,26 +9,6 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: content/harjas
-  label: Harjas
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/Sanjana
-  label: Sanjana
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/Pooja
-  label: Pooja
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/gagratlycan
-  label: Gagratlycan
-  create: all
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
