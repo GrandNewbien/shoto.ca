@@ -25,7 +25,7 @@ googleAnalytics = "UA-121049388-3"
     
     [params.footer.paragraph]
     headline = "We're Shoto Creative"
-    text = "We're photographers located in the GTA."
+    text = "We're photographers located in the GTA, capturing moment one click at a time."
     
     [params.footer.social]
     headline = "Follow Us"
