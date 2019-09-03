@@ -1,5 +1,5 @@
 ---
-albumthumb: "https://shoto.ca/images/albums/harjas/IMG_4557_1.jpg"
+albumthumb: "/harjas/IMG_4557_1.jpg"
 title: "Harjas"
 date: 2019-08-20T23:46:50-04:00
 draft: false

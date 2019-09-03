@@ -1,5 +1,5 @@
 ---
-albumthumb: "https://shoto.ca/images/albums/pooja/IMG_4606_1.jpg"
+albumthumb: "/pooja/IMG_4606_1.jpg"
 title: "Pooja"
 date: 2019-08-20T13:56:06-04:00
 draft: false

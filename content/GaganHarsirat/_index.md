@@ -1,5 +1,5 @@
 ---
-albumthumb: "https://shoto.ca/images/albums/gaganharsirat/IMG_4510_1.jpg"
+albumthumb: "/gaganharsirat/IMG_4510_1.jpg"
 title: "Gagan and Harsirat"
 date: 2019-08-22T11:23:21-04:00
 draft: false
