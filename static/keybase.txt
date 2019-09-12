@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/grandnewbien
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shoto.ca
+  * I am grandnewbien (https://keybase.io/grandnewbien) on keybase.
+  * I have a public key with fingerprint 0E64 9438 9D24 F62D 5899  1F9D D057 0F11 A491 E368
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120830335bff6e7f75e7e254aaa26784aefe9f1c1c9ef6bd419bada7ad2a3e4bb220a",
+      "fingerprint": "0e6494389d24f62d58991f9dd0570f11a491e368",
+      "host": "keybase.io",
+      "key_id": "d0570f11a491e368",
+      "kid": "01017594cd083bf1aeac34aede6c1bff3fc035d1559df6dca44246e96cb0dbcaaea00a",
+      "uid": "b433909e9f67e84ea4cbd14ed126af19",
+      "username": "grandnewbien"
+    },
+    "service": {
+      "hostname": "shoto.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568310656,
+  "expire_in": 157680000,
+  "prev": "6fc5d77c3e25f44a1f700546fa0e1b4bcc564b1ef79343891324b8c6d15e9aa1",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMN2AnicbVJ7UBVVGL+IGFxTwZliwCFj7QEM0J7ds7t3r0rlI6nEwQIqkLme3T3L
+XcS9t72XtyA+UkfBJB0rg7RBCMryUZCBoDyECEfJhpEaYgSBSXAmJN7NULuM/tf5
+55zznd/3+36/7zstSzxNZo/Od5b5nS2+Z/foaPwk3ZSc80FBLiE4pGzCmkvswPMb
+TpOwy23boUiElSABRVpokqYZQZZZzMkcgzlMMRAhRLGcBSIsY14GIhB5LLOCBAEv
+IAlxSKIQjaEgUBSJiHBCVtQUrDk1RXUbtJiFPKQtvERBmaUkxsLzQOYliWQ4UgYA
+QR5gmrXoiXaHy8jQxQnIhSMVhx7TL7Z5ef+Df6ybBBzDQ1HS5QsyQBiJtC5WwqwI
+dCu0LJI0IwGG4SWZlUQEIQVZzLOiQEqCiHQ8Oa87fZ5OgDTNk7zulOWwBWIERUEC
+EEuAYpEMeAPowpqKdmIdnaIhVVJxpqBglcgLJ/SXDEXERnMNN49QLrvD7YgUjSJO
+TT+KjjQ9ane7nS6rkeXOdhqwTCzYHhHYBEWV9D7qGRlYcykOlbACHSm6FYMRMKyF
+BiTLsOEEznIqGrYpBoLhWAupL6MOztApWVlkJI4TaX2QMoQIyBxJMpCVEYmBAAVR
+ZFgoACxzPG0MCdAUFCwiq7cL8wgBwrD0vuogrDTUdaIUw42SoiJ3uoaJvKbGbQtN
+HmbTIq8FxgczmX18H3+7Z0y+pmKfqJCspZ6jk3/NtCamToPFhXvjhrwqD/rPxr85
+NRTWZZpanD+8Vv3ZO3uiffvsi57riWOtmS0r4+ZGDrY19p6JLg1+Dv8aMls1fv/v
+9z6ba7dejG9aP3lpUAsvnxt5+NoTJ08pHf0X197bcr+M6pyeyF2+YDD1Qn/bcOrR
+NyIPHR5gG1JbBvd9402ZQ/wHcqqKOH4Qbj45c9N++daGvHXVpSde6g26fD2noLeo
+tuAj+vfu/LyG0zvHi897rQ77tybwanf91qnouivlCU8/2Jx0dY1aG9q717fRXpmc
+1tPz9qbjljOtpoX87eDQ3IoNQUe+PuZTlB606dARx6IX5pbciVkTtSuuqbKruT92
+q1PzrYiOJcPHho+bRvZ/fuCSP1i/rzAiNsd/he3k0eS+pCN/njp8rSSuL+UH848z
+H9bfjojI+nikKnG6q/GG9ZfC559d9W1DdMLxT8++m00n3fWby3yrI9AvUPW0DlTL
+CcH/xPG3+gJKI53ffzW+cjd8uMBywxUbs7TW/MUrYc0TOctWTG7qQq9fqN3jcWzs
+ycGRtqn2qOqXt0fv39O9yqskuLTNt+bKT52tf9yN8E7cfT7BL3+1Vkd/V3xuecDG
+V080XA+4uUuz9zwVco0KHaPzD5R37s/GERnnbF1cUt26+LLRJleba5vpdPNvNV+W
+bcyqOFA9LJfUbxm98yCmdqivwfUfoJ7J0w==
+=gnw+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/grandnewbien
+
+==================================================================
