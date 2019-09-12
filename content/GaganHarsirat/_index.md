@@ -6,5 +6,5 @@ draft: false
 ---
 
 
-{{< photo full="gaganharsirat/IMG_4510.jpg" thumb="gaganharsirat/IMG_4510_1.jpg" alt="" phototitle="Family Photo" description="">}}
+{{< photo full="gaganharsirat/IMG_4510.jpg" thumb="gaganharsirat/IMG_4510_1.jpg" alt="" phototitle="" description="">}}
 {{< photo full="gaganharsirat/IMG_4781.jpg" thumb="gaganharsirat/IMG_4781_1.jpg" alt="" phototitle="" description="">}}

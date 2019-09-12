@@ -6,4 +6,4 @@ draft: false
 ---
 
 
-{{< photo full="sanjana/img_1.jpg" thumb="sanjana/img_1_1.jpg" alt="" phototitle="Sanjana Headshot 1" description="">}}
+{{< photo full="sanjana/img_1.jpg" thumb="sanjana/img_1_1.jpg" alt="" phototitle="" description="">}}
