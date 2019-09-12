@@ -1,6 +1,6 @@
 ---
 albumthumb: "/waterloo/IMGP0863_1.jpg"
-title: "Waterloo Orientation"
+title: "UWaterloo Orientation"
 date: 2019-09-12T17:39:09-04:00
 draft: false
 ---
